@@ -10987,3 +10987,34 @@ label,
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
+/* my classes */
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+li {
+  list-style-type: none;
+}
+
+.flexman {
+  justify-content: space-around
+}
+
+hr {
+  width: 10%;
+  height: 1px;
+  background-color: #333;
+}
+
+.banner-img {
+  background-image: url('https://picsum.photos/1920/400');
+  background-position: 10%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+}
